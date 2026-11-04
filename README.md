@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EcoShop – SQL vs NoSQL Database Project
 
 ## Project Overview
