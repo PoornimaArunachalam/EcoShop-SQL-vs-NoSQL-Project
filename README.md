@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcoShop – SQL vs NoSQL Database Project
 
 ## Project Overview
@@ -30,3 +31,6 @@ The `ALTER TABLE` command was used to add the `material_type` column to the exis
 
 ## Learning Outcome
 Learned how to create and manage a relational database using Amazon RDS and MySQL, insert records, and modify an existing table structure.
+=======
+# EcoShop-SQL-vs-NoSQL-Project
+>>>>>>> 1ac49ed33ceacac18aa12a14fd080e897381c0c2
